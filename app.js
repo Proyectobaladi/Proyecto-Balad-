@@ -1,5 +1,5 @@
 const APP_NAME='Proyecto Baladí';
-const APP_VERSION='0.8';
+const APP_VERSION='0.8.1';
 const BANK = window.QUESTION_BANK || [];
 const STORAGE='hodei-test-stats-v1';
 const NOTES_STORAGE='proyecto-baladi-notes-v1';
